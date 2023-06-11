@@ -1,6 +1,6 @@
 [![MC Technology](src/mctechnology_extendido.GIF)](https://www.youtube.com/c/mctechnology17)
 
-<h1 align="center">Hi there, I'm Marcos - MC Technology <img src="./src/wave.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm Rodrigo - Cero-M<img src="./src/wave.gif" width="30px"></h1>
 
 <table align="right">
 <tr>
