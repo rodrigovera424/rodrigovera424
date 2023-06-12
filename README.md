@@ -1,6 +1,6 @@
 [![Cero-M](src/shaggy%20omprint.png)]()
 
-<h1 align="center">Hi there, I'm Rodrigo - Cero-M <img src="./src/wave.gif" width="10px"></h1>
+<h1 align="center">Hi there, I'm Rodrigo - Cero-M <img src="./src/wave.gif" width="5px"></h1>
 
 <table align="right">
 <tr>
